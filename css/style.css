@@ -1,3 +1,21 @@
-nav{
+#HeaderNav{
+    background-color: rgb(63, 201, 155);
+}
 
+#HeaderNav nav ul{
+    list-style: none;
+}
+
+#HeaderNav nav  ul li{
+    margin-right: 1.2em;
+}
+
+#HeaderNav nav ul li a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-overflow: clip;
 }
